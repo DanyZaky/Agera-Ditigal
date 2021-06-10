@@ -1,0 +1,13 @@
+* {
+  font-family: 'Poppins';
+  font-size: 18px;
+}
+.navbar-nav {
+  margin-left: 150px;
+}
+
+.btn {
+  background-image: linear-gradient(to right, #5672e5, #20368f);
+  padding: 15px;
+  border-radius: 18px;
+}
