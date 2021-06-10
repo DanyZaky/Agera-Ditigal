@@ -6,8 +6,42 @@
   margin-left: 150px;
 }
 
-.btn {
+.btn-nav {
   background-image: linear-gradient(to right, #5672e5, #20368f);
-  padding: 15px;
+  padding: 15px 30px 15px;
   border-radius: 18px;
+}
+
+.btn {
+  padding: 15px 30px 15px;
+  border-radius: 18px;
+  margin-right: 20px;
+}
+
+.btn-primary {
+  background-color: #20368f;
+}
+
+.konten {
+  background-image: url(img/sapiens__3_.png);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: 600px;
+  margin-top: 50px;
+}
+
+.member {
+  background-color: #f9f9f9;
+}
+
+.profil-1 {
+  padding: 20px;
+}
+
+.col {
+  margin-bottom: 30px;
+}
+
+.card-subtitle {
+  font-size: 12px;
 }
